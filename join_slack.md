@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Join Slack
 permalink: /slack
 ---
 
