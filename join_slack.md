@@ -1,3 +1,7 @@
+---
+permalink: /slack
+---
+
 Join the juniorRubyist Productions Slack group today! We can discuss projects such as __fitgem__, __ed-pog__, and more!
 
 <a class="typeform-share button" href="https://geis28.typeform.com/to/AN3F39" data-mode="2" target="_blank"><img src="Slack.png" /> Get my Invite!</a>
