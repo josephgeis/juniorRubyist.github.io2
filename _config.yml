@@ -7,6 +7,7 @@
 
 # Site settings
 title: juniorRubyist
+name: Joseph Geis
 email: geis28@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A young and awesome Rubyist.
