@@ -1,6 +1,5 @@
 ---
 layout: page
-title: juniorRubyist Link Shortening
 permalink: /link/
 ---
 
