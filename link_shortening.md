@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /link
+title: juniorRubyist Link Shortening
+permalink: /link/
 ---
 
 # juniorRubyist Link Shortening
